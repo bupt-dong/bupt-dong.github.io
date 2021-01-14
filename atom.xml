@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bupt-dong.github.io</id>
     <title>东东的后花园</title>
-    <updated>2021-01-14T02:54:30.413Z</updated>
+    <updated>2021-01-14T03:04:38.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bupt-dong.github.io"/>
     <link rel="self" href="https://bupt-dong.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://bupt-dong.github.io/images/avatar.png</logo>
     <icon>https://bupt-dong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 东东的后花园</rights>
+    <entry>
+        <title type="html"><![CDATA[a'a'a]]></title>
+        <id>https://bupt-dong.github.io/post/aaa/</id>
+        <link href="https://bupt-dong.github.io/post/aaa/">
+        </link>
+        <updated>2021-01-14T02:56:32.000Z</updated>
+        <content type="html"><![CDATA[<p>aaa</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小诗分享  | 每一个早晨都值得醒来]]></title>
         <id>https://bupt-dong.github.io/post/hello-gridea/</id>
